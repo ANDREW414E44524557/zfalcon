@@ -1,0 +1,2 @@
+# zfalcon
+Regex generator CLI
